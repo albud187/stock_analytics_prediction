@@ -1,0 +1,6 @@
+- rewrite functions for feature extraction
+- SMA
+- EMA
+- RSI
+
+use "slicing"
