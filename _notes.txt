@@ -1,6 +1,21 @@
-- rewrite functions for feature extraction
-- SMA
-- EMA
-- RSI
+rewrite RSI function
 
 use "slicing"
+
+for many to one (dynamic) implementation:
+
+- create DF
+- create price action-related features
+- create ANN
+
+
+- feed data in RNN
+- predict price
+- unscale
+- create new time series
+- adjust df
+
+- feed data in RNN
+- preict price
+- adjust df
+- unscale
