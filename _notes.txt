@@ -1,21 +1,9 @@
-rewrite RSI function
-
-use "slicing"
-
-for many to one (dynamic) implementation:
-
-- create DF
-- create price action-related features
-- create ANN
+Features:
+- bollinger bands
+- RSI correlation
+- VIX
 
 
-- feed data in RNN
-- predict price
-- unscale
-- create new time series
-- adjust df
-
-- feed data in RNN
-- preict price
-- adjust df
-- unscale
+refine pipeline
+move towards end to end process
+automate test set iteration 
