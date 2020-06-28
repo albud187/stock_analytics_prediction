@@ -7,3 +7,6 @@ Features:
 refine pipeline
 move towards end to end process
 automate test set iteration 
+
+fix bollinger bands function
+fix RSI function
