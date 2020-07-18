@@ -10,3 +10,11 @@ automate test set iteration
 
 fix bollinger bands function
 fix RSI function
+
+portfolio optimization:
+
+min VAR
+
+lever to target risk
+
+lever to target return
