@@ -13,8 +13,10 @@ fix RSI function
 
 portfolio optimization:
 
+*lever to target risk
+
+*lever to target return
+
+*correlation comparison
+
 min VAR
-
-lever to target risk
-
-lever to target return
